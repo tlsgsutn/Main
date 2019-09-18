@@ -4,13 +4,15 @@
 
 - mkdir <폴더생성>
 
-- cd <폴더이름>
+- cd <폴더경로>
 
 - git init
 
-- notepad <파일생성> (노트패드)
+- notepad <문서생성>
 
 - git add <파일이름>
+
+- git add . 파일추가없이 수정만 했을 경우
 
 - git log    commit한과정을 볼때
 
@@ -23,8 +25,6 @@
 - git checkout <브랜치> 
 
 - git merge <브랜치> 다른 브랜치를 현재 브랜치로 합치기
-
-- git add . 파일추가없이 수정만 했을 경우
 
 - git commit -m "<바뀐내용>" 커밋:변경 사항을 저장하는것 
 
